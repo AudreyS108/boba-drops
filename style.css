@@ -5,7 +5,7 @@ h1{
 }    
 p{
     font-size: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: "Lexend", sans-serif;
 }
 
 img {
@@ -16,4 +16,37 @@ body{
     text-align: center;
     background-color:#ffd484;
     color:rgb(93, 59, 0);
+    
+}
+
+.ul{
+    list-style-type: none;
+    margin: none;
+}
+
+
+.lexend{
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.toppart{
+    background-color: white;
+    height:110px;
+}
+
+footer{
+    background-color: white;
+    height:100px;
+}
+
+
+a{
+    text-align: center;
+}
+
+a:hover{
+    color:black;
 }
